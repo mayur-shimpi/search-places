@@ -22,7 +22,6 @@
     font-weight: 700;
 }
 
-/* Pagination controls */
 .pagination-controls {
     margin-top: 10px;
     display: flex;
@@ -42,4 +41,19 @@
 .pagination-controls button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
+}
+
+@media (max-width: 480px) {
+    .custom-table th,
+.custom-table td {
+    padding: 5px;
+}
+.custom-table th {
+    border-bottom: 1px solid #000;
+    font-weight: 500;
+}
+.custom-table tr td:first-child{
+    font-weight: 500;
+}
+
 }
