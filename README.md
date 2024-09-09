@@ -2,7 +2,7 @@
 
 This project developed using React App.
 
-![Alt text](./UI.png)
+![Alt text](/UI.png)
 
 ## Available Scripts
 
