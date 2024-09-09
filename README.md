@@ -2,6 +2,8 @@
 
 This project developed using React App.
 
+![Alt text](./UI.png)
+
 ## Available Scripts
 
 In the project directory, you can install dependencies using:
